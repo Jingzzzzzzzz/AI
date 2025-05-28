@@ -1,0 +1,7 @@
+# Streamline Data Modelling Process Guideline
+
+<repo_name>: xxx
+<directory>: xxx
+<source>: xxx
+
+1. can you create .sql model in <repo_name> repo under <directory_path> from source <source> name the model name same structure in <directory> directory. The model must save in separate folder and named it same as model name in <directory> directory. Rename primary key and add prefix <directory>. Create both README.md and schema.yml for the model in the new folder, the style and structure must to match other based model in <directory> directory.
